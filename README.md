@@ -5,10 +5,10 @@ Kaobook is an extensive contest project It is made for educational purposes only
 ## Screenshots
 
 **Newsfeed:**
-![newsfeed](https://github.com/Kaodemic/kaobook-clone/blob/master/assets/newsfeed.png)
+![newsfeed](https://github.com/Kaodemic/facebook-clone/blob/master/assets/newsfeed.png)
 
 **ProfilePage:**
-![profilepage](https://github.com/Kaodemic/kaobook-clone/blob/master/assets/profile.png)
+![profilepage](https://github.com/Kaodemic/facebook-clone/blob/master/assets/profile.png)
 
 ## Technologies
 

@@ -1,14 +1,14 @@
-# KAO INTERVIEW
+# KAO INTERVIEW HOME TAKE
 
 Kaobook is an extensive contest project It is made for educational purposes only and nothing else!
 
 ## Screenshots
 
 **Newsfeed:**
-![newsfeed](https://github.com/Kaodemic/facebook-clone/blob/master/assets/newsfeed.PNG)
+![newsfeed](https://github.com/Kaodemic/kaobook-clone/blob/master/assets/newsfeed.PNG)
 
 **ProfilePage:**
-![profilepage](https://github.com/Kaodemic/facebook-clone/blob/master/assets/profile.PNG)
+![profilepage](https://github.com/Kaodemic/kaobook-clone/blob/master/assets/profile.PNG)
 
 ## Technologies
 
@@ -39,7 +39,7 @@ Kaobook is an extensive contest project It is made for educational purposes only
 
 ## Features ( 1.0.0 )
 
-**I've tried my best to clone the real Facebook Beta even with the same colors provided in theme.js**
+**I've tried my best to clone the real kaobook Beta even with the same colors provided in theme.js**
 
 ### Login / Register
 
@@ -47,7 +47,7 @@ Kaobook is an extensive contest project It is made for educational purposes only
 
 ### Post
 
-- You can create a post in which you can also use `markdown` and upload an image if you want to just like Facebook
+- You can create a post in which you can also use `markdown` and upload an image if you want to just like kaobook
 - You can like or comment on a post and if the post is not yours the person who created it will receive an instant realtime notification about your particular action ( `apollo subscriptions` )
 - You can delete a post ( `if it's yours all comments and likes associated to it will get deleted` )
 - You can unlike or delete your comment ( `the notifications related to your like or comment will get deleted` )
